@@ -1,0 +1,2 @@
+class WrongTorrentFile(Exception):
+    pass
